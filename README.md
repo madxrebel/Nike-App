@@ -1,8 +1,9 @@
-# React + Vite
+# Nike-App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Description**:  
+Nike-App is a frontend web application built using Vite and React. The project primarily focuses on utilizing Tailwind CSS to create responsive, modern, and clean user interfaces.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Clean and modern UI using Tailwind CSS
+- Responsive design optimized for both mobile and desktop
+- Fast and performant build tool with Vite
